@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BestMemories</string>
+    <string name="title">Your mood</string>
+    <string name="text">What\'s happened?</string>
+    <string name="create_new">Create new</string>
+    <string name="best_memories">Best Memories</string>
+    <string name="notes_list">My memories</string>
+    <string name="date">Date xx/xx/xx</string>
+    <string name="delete_note">Delete note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="add_picture">Add Picture</string>
+    <string name="add_music">Add Music</string>
+    <string name="add_voice">Add Voice</string>
+    <string name="cancel">Cancel</string>
+    <string name="agree">Yes</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="set_password">Set password</string>
+    <string name="change_theme">Change theme</string>
+    <string name="change_language">Change language</string>
+</resources>
